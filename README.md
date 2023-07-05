@@ -22,4 +22,4 @@ Ejecuta la clase main y el programa compilará e iniciará.
 - Las clases ConversorMonedas y ConversorTemperatura contienen los métodos de obtención,adición y conversion respectivos.
 - La clase SeleccionOpciones contiene el menú de selección de conversor y además posee un método que altera la ejecución del programa si se quiere continuar o no.
 # Desarrollado por
--Miguel Catuche. Id: 2b100673
+-Miguel Catuche. Alura Latam grupo 5, especialización en Backend.
